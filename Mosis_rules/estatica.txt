@@ -1,0 +1,4 @@
+V1 Vdd 0 1.2V
+V2 Vin 0 0V
+.dc V2 0 1.2 0.01
+.backanno

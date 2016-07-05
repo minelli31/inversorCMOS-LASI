@@ -1,0 +1,597 @@
+*** LASI Design Rule Check Flag Log  7.0.80  06/08/16  08:24:13
+
+** DRC File  C:\Lasi7\Mosis_rules\Mosis_deep.drc
+
+Note: Read Text with Fixed Pitch Font
+
+** Cell:  NAND
+
+Check 1:  1.1 Well width
+Distance= 12   Resolution= 0.5   Dist/Res= 24   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 2:  1.2 Well spacing
+Distance= 18   Resolution= 0.5   Dist/Res= 36   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 3:  1.4 Wells of different type spacing =0 lam
+Distance= 0   Resolution= 0.1   Dist/Res= 0   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 4:  2.1 Active width and extension
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 5:  2.2 Active spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 6:  2.3a PMOS source/drain active to n-well edge spacing (inner)
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 7:  2.3b NMOS source/drain active to n-well edge spacing (outer)
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 8:  2.3c NMOS source/drain active to p-well edge spacing (inner)
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 9:  2.3d PMOS source/drain active to p-well edge spacing (outer)
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 10:  2.4a P+ substrate connection to n-well edge spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 11:  2.4b N+ well connection to n-well edge spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 12:  2.4c P+ well connection to p-well edge spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 13:  2.4d N+ substrate connection to p-well edge spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 14:  2.5 Active of different select spacing =0 lam
+Distance= 0   Resolution= 0.1   Dist/Res= 0   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 15:  3.1 Poly1 width
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 16:  3.2 Poly1 spacing  (over active)
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 17:  3.2 Poly1 spacing  (over field)
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 18:  3.3a Poly1 gate extension (scmos subm deep <2lam cmosedu <1edu)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 19:  3.3c Poly1 gate extension (deep cmosedu)
+Distance= 0.5   Resolution= 0.05*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 20:  3.5 Poly1 to active
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 21:  4.2 Select overlap of active
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 22:  4.4 Select width and spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 23:  5.1 Exact contact size
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 24:  5.2 Poly1 overlap of contact (simple)
+Distance= 1.5   Resolution= 0.05*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 25:  5.3 Contact spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 26:  5.4 Contact to gate of transistor spacing
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 27:  6.2 Active overlap of contact (simple)
+Distance= 1.5   Resolution= 0.05*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 28:  7.1 Metal1 width
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 29:  7.2 Metal1 spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 30:  7.3 Metal1 overlap of contact
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 31:   8.1 Exact via1 size
+Distance= 3   Resolution= 0.1   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 32:  8.2 Via1 spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 33:  8.3 Metal1 overlap of via1
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 34:  8.4 Via1 to contact spacing (non-stacked vias)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 35:  8.5 Via1 to poly1 or active edge spacing
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 36:  9.1 Metal2 width
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 37:  9.2 Metal2 spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 38:  9.3 Metal2 overlap of via1
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 39:  11.1 Poly2 width
+Distance= 7   Resolution= 0.1   Dist/Res= 70   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 40:  11.1 Poly2 width
+Distance= 7   Resolution= 0.1*   Dist/Res= 70   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 41:  11.2 Poly2 spacing (scmos subm)
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 42:  11.4 Poly2 to active or well edge spacing (scmos subm)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 43:  11.5 Poly2 to poly1 contact spacing (scmos subm)
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 44:  12.3 Transistor poly2 overlap of active (scmos subm)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 45:  13.3 Poly2 (electrode) overlap (on capacitor)(scmos subm)
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 46:  13.4 Poly2 overlap (not on capacitor) (scmos subm)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 47:  14.1 Exact via2 size
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 48:  14.2 Via2 spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 49:  14.3 Metal2 overlap of via2
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 50:  14.4 Via2 to via1 spacing (non-stacked)
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 51:  15.1 Metal3 width
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 52:  15.2 Metal3 spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 53:  15.3 Metal3 overlap of via2
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 54:  16.2 Select overlap of emitter contact
+Distance= 3   Resolution= 0.1   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 55:  16.3 P-base overlap of nselect
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 56:  16.4 Nselect to pselect in p-base spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 57:  16.5 P-base overlap of pselect
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 58:  16.6 Select overlap of base contact
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 59:  16.7 N-well overlap of p-base
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 60:  16.8 P-base to active spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 61:  17.1 Capacitor well width
+Distance= 12   Resolution= 0.1*   Dist/Res= 120   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 62:  17.2 Capacitor well to other wells spacing
+Distance= 18   Resolution= 0.1*   Dist/Res= 180   Rescale= 1   Map= 2048x1280
+
+Areas Flagged:
+
+Check 63:  17.3 Capicitor well to external active spacing
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 64:  17.4 Capacitor well overlap of active
+Distance= 6   Resolution= 0.1*   Dist/Res= 60   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 65:  18.1  Minimum linear capacitor width
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 66:  18.2 Minimum poly extension of active in linear capacitor
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 67:  18.3 Minimum active overlap of poly in linear capacitor
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 68:  18.5 Min active contact to poly in linear capacitor
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 69:  20.1 Minimum silicide block width
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 70:  20.2 Minimum silicide block spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 71:  20.3 Minimum spacing, SB to contact
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 72:  20.4 Minimum spacing, SB to external active
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 73:  20.7 Minimum poly width in resistor 
+Distance= 5   Resolution= 0.1*   Dist/Res= 50   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 74:  20.8 Minimum spacing of poly resistors
+Distance= 7   Resolution= 0.1*   Dist/Res= 70   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 75:  20.9 Minimum SB overlap of poly
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 76:  21.1 Exact via3 size 
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 77:  21.2 Minimum Via3 spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 78:  21.3 Minimum via3 overlap by metal3 
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 79:  22.1 Minimum metal4 width
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 80:  22.2 Minimum metal4 space
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 81:  22.3 Metal4 overlap via3
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 82:  23.1  Minimum poly cap1 width
+Distance= 8   Resolution= 0.1   Dist/Res= 80   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 83:  23.2  Minimum poly cap1 spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 84:  23.3  Minimum spacing, poly cap1 to active
+Distance= 8   Resolution= 0.1*   Dist/Res= 80   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 85:  23.4  Minimum overlap, poly cap1 over poly
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 86:  23.5  Minimum overlap, poly cap1 over contact
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 87:  23.6  Minimum overlap, poly over contact
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 88:  23.7  Minimum spacing, poly to contact-to-poly_cap1
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 89:  23.9  Minimum spacing, metal2 to poly_cap
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 90:  24.1  Minimum thick active width
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 91:  24.2  Minimum spacing (thick active)
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 92:  24.3  Minimum active overlap
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 93:  24.4  Minimum space, thick active to external active
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 94:  24.5  Minimum poly width over thick active
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 95:  25.1 Exact via4 size
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 96:  25.2 Minimum via4 spacing
+Distance= 3   Resolution= 0.1*   Dist/Res= 30   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 97:  25.3 Minimum via4 overlap by metal4
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 98:  26.1 Minimum metal5 width
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 99:  26.2 Minimum metal5 space
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 100:  26.3 Minimum metal5 overlap via4
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 101:  27.1 High Res width
+Distance= 4   Resolution= 0.1   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 102:  27.2 High Res spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 103:  27.3  Minimum spacing, HR to contact 
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 104:  27.4  Minimum spacing, HR to external active
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 105:  27.5  Minimum spacing, HR to external poly2 
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 106:  27.7  Minimum poly2 width in resistor
+Distance= 5   Resolution= 0.1*   Dist/Res= 50   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 107:  27.8  Minimum spacing of poly2 resistors
+Distance= 7   Resolution= 0.1*   Dist/Res= 70   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 108:  27.9  Minimum HR overlap of poly2 
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 109:  28.1  Minimum width, capacitor
+Distance= 50   Resolution= 0.1*   Dist/Res= 500   Rescale= 1   Map= 4096x2560
+
+Areas Flagged:
+
+Check 110:  28.2  Minimum spacing (2 Capacitors) 
+Distance= 14   Resolution= 0.1*   Dist/Res= 140   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 111:  29.1 Exact via5 size
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 112:  29.2 Minimum via5 spacing
+Distance= 4   Resolution= 0.1*   Dist/Res= 40   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 113:  29.3 Minimum via5 overlap by metal5
+Distance= 1   Resolution= 0.1*   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 114:  30.1 Minimum metal6 width
+Distance= 5   Resolution= 0.1*   Dist/Res= 50   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 115:  30.2 Minimum metal6 space
+Distance= 5   Resolution= 0.1*   Dist/Res= 50   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 116:  30.3 Minimum metal6 overlap via5
+Distance= 2   Resolution= 0.1*   Dist/Res= 20   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+Check 117:  30.4 Minimum spacing when either metal6 is wider than 10 lam 
+Distance= 1   Resolution= 0.1   Dist/Res= 10   Rescale= 1   Map= 1024x640
+
+Areas Flagged:
+
+DRC Completed ...  0 Total Flags
+
+Total Run Time:  0hr 0min 4sec
+

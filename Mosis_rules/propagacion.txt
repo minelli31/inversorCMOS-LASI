@@ -1,0 +1,4 @@
+V1 Vdd 0 1.2V
+V2 Vin 0 PULSE(0 1.2 0.1n 1p 1p 0.5n 1n)
+.tran 4n
+.backanno

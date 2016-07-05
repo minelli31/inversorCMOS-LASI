@@ -1,0 +1,29 @@
+*** Compile Log for NAND  7.0.80  06/22/16  12:23:18
+
+Note: Read Text with Fixed Pitch Font
+
+
+*** Start of Spice Compile ***
+
+
+*** Compiling NAND ***
+Using Layout Rules at Level Depth 1
+
+Messages:
+4 Cells 18 Boxes and 13 Paths
+28 Boxes and 0 Paths Added from 4 Lower Cells, 46 Boxes and 13 Paths Total
+
+Compile Results:
+             Main Circuit Nodes       Lower Cell Connector Nodes
+Devices (Real Virtual Symbol Total) (Count  Real Virtual Symbol Total)
+     4     5       1      0     6      16    14       2      0    16
+
+
+Finished ...
+
+Circuit File:  Nand.cir
+
+0 Warnings  0 Errors
+
+Final Compile Time: 0 hr 0 min 1 sec 
+
